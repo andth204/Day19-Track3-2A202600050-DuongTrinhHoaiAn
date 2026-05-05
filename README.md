@@ -1,1 +1,4 @@
-# Day19-Track3-2A202600050-DuongTrinhHoaiAn
+# Day19-Track3
+
+- ID: 2A202600050
+- Name: Dương Trịnh Hoài An
